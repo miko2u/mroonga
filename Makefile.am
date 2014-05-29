@@ -71,6 +71,7 @@ update-latest-release: misc
 	  packages/rpm/fedora/mariadb-mroonga.spec.in	\
 	  packages/rpm/centos/mysql-mroonga.spec.in	\
 	  packages/rpm/centos/mysql55-mroonga.spec.in	\
+	  packages/rpm/centos/mysql-community-mroonga.spec.in	\
 	  packages/debian/changelog			\
 	  doc/source/install.rst			\
 	  $(MROONGA_GITHUB_COM_PATH)/index.html		\
