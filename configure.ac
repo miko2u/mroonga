@@ -469,6 +469,7 @@ AC_OUTPUT([
   packages/rpm/centos/mysql-mroonga.spec
   packages/rpm/centos/mysql55-mroonga.spec
   packages/rpm/centos/mysql-community-mroonga.spec
+  packages/rpm/centos/mysql55-community-mroonga.spec
   packages/rpm/fedora/mysql-mroonga.spec
   packages/rpm/fedora/mariadb-mroonga.spec
   data/install.sql
